@@ -4,7 +4,7 @@
 // I AM NOT DONE
 
 fn main() {
-    call_this();
+    call_this(10); // missing argument
 }
 
 fn call_this(num: u32) {
